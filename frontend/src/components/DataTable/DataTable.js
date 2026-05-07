@@ -110,7 +110,7 @@ const DataTable = () => {
     },
     {
       field: 'discounted_price',
-      headerName: 'Price (₹)',
+      headerName: 'Discounted Price (₹)',
       width: 120,
       type: 'number',
       renderCell: (params) => (
@@ -121,11 +121,11 @@ const DataTable = () => {
     },
     {
       field: 'actual_price',
-      headerName: 'Original (₹)',
+      headerName: 'Price (₹)',
       width: 120,
       type: 'number',
       renderCell: (params) => (
-        <Typography variant="body2" sx={{ textDecoration: 'line-through', color: 'text.secondary' }}>
+        <Typography variant="body2" sx={{ color: 'text.secondary' }}>
           ₹{parseFloat(params.value).toLocaleString()}
         </Typography>
       ),

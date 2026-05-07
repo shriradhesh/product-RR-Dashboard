@@ -992,3 +992,103 @@
 {"timestamp":"2026-05-07T07:30:56.378Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
 {"timestamp":"2026-05-07T07:30:56.381Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
 {"timestamp":"2026-05-07T07:30:56.382Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"4ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:08.348Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:08.464Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"113ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:08.471Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"4ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:08.478Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:08.479Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"131ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:08.483Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:08.495Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:08.496Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"13ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:08.499Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:08.513Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:08.513Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"14ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:08.516Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:08.532Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:08.533Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"17ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:12.369Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:33:12.375Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:33:12.376Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"7ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:12.379Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:33:12.382Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:33:12.384Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"6ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:24.455Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:24.566Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"108ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:24.572Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"3ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:24.578Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:24.579Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"124ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:24.582Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:24.592Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:24.593Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"11ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:24.595Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:24.610Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:24.611Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"16ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:24.613Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:33:24.627Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:33:24.628Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"15ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:30.549Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:33:30.555Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:33:30.556Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"7ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:33:30.561Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:33:30.565Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:33:30.566Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"5ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:49.877Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:42:49.997Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"116ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:50.003Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"3ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:50.010Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:42:50.011Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"134ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:50.014Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:42:50.027Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:42:50.028Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"14ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:50.031Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:42:50.045Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:42:50.046Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"15ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:50.050Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:42:50.061Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:42:50.062Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"12ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:52.742Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:42:52.747Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:42:52.749Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"7ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:42:52.752Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:42:52.756Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:42:52.758Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"7ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:20.173Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:46:20.360Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"183ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:20.366Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"3ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:20.373Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:46:20.374Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"200ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:20.376Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:46:20.389Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:46:20.390Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"14ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:20.392Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:46:20.405Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:46:20.406Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"14ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:20.409Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:46:20.421Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:46:20.422Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"14ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:23.660Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:46:23.665Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:46:23.666Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"6ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:46:23.669Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:46:23.672Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:46:23.674Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"5ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:18.519Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:48:18.618Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"97ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:18.623Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/categories","statusCode":200,"duration":"3ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:18.630Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:48:18.631Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"112ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:18.633Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:48:18.642Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:48:18.643Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"10ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:18.646Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:48:18.656Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:48:18.657Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"11ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:18.660Z","level":"INFO","module":"ProductController","message":"Fetching analytics data"}
+{"timestamp":"2026-05-07T07:48:18.672Z","level":"INFO","module":"ProductController","message":"Analytics data fetched successfully","data":{"totalProducts":"1302","categories":8}}
+{"timestamp":"2026-05-07T07:48:18.673Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/analytics","statusCode":200,"duration":"13ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:20.828Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:48:20.833Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:48:20.833Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"5ms","ip":"::1"}}
+{"timestamp":"2026-05-07T07:48:20.836Z","level":"DEBUG","module":"ProductController","message":"Fetching products","data":{"page":"1","limit":20,"search":"","category":"","minRating":"0"}}
+{"timestamp":"2026-05-07T07:48:20.839Z","level":"INFO","module":"ProductController","message":"Products fetched successfully","data":{"count":1302,"page":"1","limit":20,"totalPages":66}}
+{"timestamp":"2026-05-07T07:48:20.840Z","level":"DEBUG","module":"Middleware","message":"Request completed","data":{"method":"GET","url":"/api/products?search=&category=&minRating=0&sortBy=rating&sortOrder=DESC&page=1","statusCode":200,"duration":"4ms","ip":"::1"}}
