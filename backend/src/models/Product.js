@@ -46,6 +46,16 @@ const Product = sequelize.define('Product', {
     allowNull: true,
     defaultValue: 0,
   },
+  discounted_price: {
+    type: DataTypes.DECIMAL(10, 2),
+    allowNull: true,
+    defaultValue: 0,
+  },
+  actual_price: {
+    type: DataTypes.DECIMAL(10, 2),
+    allowNull: true,
+    defaultValue: 0,
+  },
 }, {
   tableName: 'products',
   timestamps: true,
